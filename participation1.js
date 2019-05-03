@@ -19,8 +19,7 @@
             
           
           
-         $("info").style.backgroundImage = "
-         ('imagesf/info.svg')";
+         $("info").style.backgroundImage = "('imagesf/info.svg')";
             
           
             
